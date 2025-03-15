@@ -10,7 +10,7 @@ nav a {
 h1 {
     color: darkblue;
 }
-ima {
+main ima {
     with: 150px;
     height: auto;
     border: 1px solid black;
@@ -18,5 +18,27 @@ ima {
     box-shadow: 0 0 30px gray;
 }
 p {
-    padding: 10px
+    padding: 0px
+}
+
+
+aside {
+        width: 30rem;
+        margin: 1rem;
+        border: 1px solid #00008b;
+        padding; 3rem;
+        background-color: #eeeeee;
+        color: #000;
+        text-align: center;
+}
+
+aside img {
+        width:200px;
+        height: auto;
+}
+
+footer {
+    margin-top: 10px;
+    border-top: 1px #34c9eb;
+    text-align: center;
 }
